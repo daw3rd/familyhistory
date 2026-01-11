@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="Misc/style.css">
+<link rel="stylesheet" href="misc/style.css">
 </head>
 
 * Test MD page
