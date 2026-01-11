@@ -1,9 +1,5 @@
 <head>
-<style>
-body {
-  background: url("Misc/Background.gif") repeat;
-}
-</style>
+<link> rel="stylesheet" href="Misc/style.css">
 </head>
 
 * Test MD page
